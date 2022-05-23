@@ -1,5 +1,5 @@
 # E-Commerce-Customer-Segmentation
-**The purpose of this project is to create customer segmentations by using similarity between products purchased between the users **
+**The purpose of this project is to create customer segmentations by using similarity between products purchased between the users**
 
 # Project Overview:
 **From the E-Commerce transaction data, only unique values from the Product Description column were taken and Natural Language Processing techniques were applied to convert to numerical data**
